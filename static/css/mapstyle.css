@@ -30,7 +30,7 @@ body {
 
 #vis {
   position: relative;
-  height: 900px;
+  height: 830px;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -38,18 +38,30 @@ body {
 
 #vis2 {
   position: relative;
-  height: 1100px;
+  height: 930px;
   width: 100%;
   margin: 0;
   padding: 0;
 }
 
-#vis3 {
+#spacer1 {
   position: relative;
-  height: 800px;
+  height: 50px;
   width: 100%;
   margin: 0;
   padding: 0;
+  background-color: #ffffff;
+
+}
+
+#spacer2 {
+  position: relative;
+  height: 50px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+
 }
 
 #vis4 {
