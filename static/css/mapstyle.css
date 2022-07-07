@@ -52,6 +52,14 @@ body {
   padding: 0;
 }
 
+#vis4 {
+  position: relative;
+  height: 510px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 
 #spacer1 {
   position: relative;
