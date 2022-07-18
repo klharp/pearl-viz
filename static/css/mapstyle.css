@@ -30,7 +30,7 @@ body {
 
 #vis {
   position: relative;
-  height: 600px;
+  height: 540px;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -38,23 +38,23 @@ body {
 
 #vis2 {
   position: relative;
+  height: 650px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* #vis2 {
+  position: relative;
   height: 762px;
   width: 100%;
   margin: 0;
   padding: 0;
-}
+} */
 
 #vis3 {
   position: relative;
   height: 627px;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-#vis4 {
-  position: relative;
-  height: 510px;
   width: 100%;
   margin: 0;
   padding: 0;
