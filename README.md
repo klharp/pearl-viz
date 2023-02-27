@@ -1,4 +1,4 @@
-# Pearl Repo for Visualizations
+# Pearl Repo for Resiliency Visualizations
 
 
-All of this will eventually be put on a web site for Tableau visualizations to reside.
+On kharp Github due to Pearl account cannot host pages
